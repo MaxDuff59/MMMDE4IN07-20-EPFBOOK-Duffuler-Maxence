@@ -35,7 +35,7 @@ The character of id 5 is **Jerry Smith**. To know that informations, I used Inso
 <li>Open a terminal and execute the following command : 
 <li><ul>
 <li> 1. <code>cd path/to/your/file</code>
-<li> 2. <code>npm install</code>
+<li> 2. <code>npm install</code> or install all the requirements just above
 <li> 3. <code>node app.js</code> or <code>npm run dev</code>
 </ul>
 </ul>
