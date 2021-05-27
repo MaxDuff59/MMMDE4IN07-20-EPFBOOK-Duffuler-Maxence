@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Maxence Duffuler",
+        "school": "EPF",
+        "birth": "01/02/2000",
+        "mail": "maxence.duffuler@epfedu.fr",
+        "photo": "/photo_Maxence.jpg",
+        "logoUniv": "/logoEPF.png",
+        "nationality": "French"
+    },
+    {
+        "name": "Gordon Turcotte",
+        "school": "University of London",
+        "birth": "08/11/1997",
+        "mail": " gordon.turcotte@ulondon.en",
+        "photo": "/photo_Gordon.jpg",
+        "logoUniv": "/logoLondon.png",
+        "nationality": "English"
+    },
+    {
+        "name": "Rachel Terry",
+        "school": " University of Harvard",
+        "birth": "25/03/1998",
+        "mail": " rachel.terry@uharvard.us",
+        "photo": "/photo_Rachel.jpg",
+        "logoUniv": "/logoHarvard.png",
+        "nationality": "American"
+    },
+    {
+        "name": "Robert Ritchie",
+        "school": " University of Houston",
+        "birth": "13/07/1999",
+        "mail": " robert.ritchie@uhouston.us",
+        "photo": "/photo_Robert.jpg",
+        "logoUniv": "/logoHouston.png",
+        "nationality": "American"
+    },
+    {
+        "name": "Delores McLaughlin",
+        "school": " University of Glasgow",
+        "birth": "02/08/1997",
+        "mail": " delores.mclaughlin@uglasgow.sc",
+        "photo": "/photo_Delores.jpg",
+        "logoUniv": "/logoGlasgow.png",
+        "nationality": "Scottish"
+    },
+    {
+        "name": "Maryann Stiedemann",
+        "school": " University of Berlin",
+        "birth": "28/02/2001",
+        "mail": " maryann.stiedemann@uberlin.ge",
+        "photo": "/photo_Maryann.jpg",
+        "logoUniv": "/logoBerlin.png",
+        "nationality": "German"
+    },
+    {
+        "name": "Phillip Macejkovic",
+        "school": " University of Maribor",
+        "birth": "13/12/2000",
+        "mail": " phillip.macejkovic@umaribor.sl",
+        "photo": "/photo_Phillip.jpg",
+        "logoUniv": "/logoMaribor.png",
+        "nationality": "Slovenian"
+    },
+    {
+        "name": "Everett Beier",
+        "school": " University of Munich",
+        "birth": "30/01/1999",
+        "mail": " everett.beier@umunich.ge",
+        "photo": "/photo_Everett.jpg",
+        "logoUniv": "/logoMunich.png",
+        "nationality": "German"
+    },
+    {
+        "name": "Kent Robel",
+        "school": " University of Manchester",
+        "birth": "27/04/2001",
+        "mail": " kent.robel@umanchester.en",
+        "photo": "/photo_Kent.jpg",
+        "logoUniv": "/logoManchester.png",
+        "nationality": "English"
+    },
+    {
+        "name": "Gerard Nicolas",
+        "school": " Centrale-Supelec",
+        "birth": "18/07/2000",
+        "mail": " gerard.nicolas@centrale.fr",
+        "photo": "/photo_Gerard.jpg",
+        "logoUniv": "/logoCentrale.png",
+        "nationality": "French"
+    }
+]

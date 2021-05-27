@@ -1,0 +1,32 @@
+#nav {
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    font-size : 32;
+    font-weight: bold;
+
+}
+
+#info {
+    margin: 5%;
+    margin-left: 20%;
+    text-align: left;
+}
+
+#input {
+    margin: 5%;
+    text-align: left;
+}
+
+
+#submit {
+    margin: 2%;
+    margin-left: 40%;
+    margin-right: auto;
+    text-align: center;
+}

@@ -1,0 +1,73 @@
+<head>
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/create-student.css">
+  <ul class="nav justify-content-center" id="nav">
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="/">Home page</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students">List of students</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students/data">Data visualization</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students/create">Creation of student</a>
+    </li>
+  </ul>
+</head>
+
+<form method="POST">
+  <p id='title'>
+    Creation of a new student
+  </p>
+  <div class="container">
+    <div class="row"  >
+      <div class="col-sm" id="info">
+        <p>
+          <label for="name">Name</label>
+        </p>
+        <br>
+        <p>
+          <label for="school">School/University</label>
+        </p>
+        <br>
+        <p>
+          <label for="school">Date of birth</label>
+        </p>
+        <br>
+        <p>
+          <label for="school">Nationality</label>
+        </p>
+        <br>
+        <p>
+          <label for="school">Mail</label>
+        </p>
+      </div>
+      <div class="col-sm" id="input">
+        <p>
+          <input type="text" name="name" required />
+        </p>
+        <br>
+        <p>
+          <input type="text" name="school" required />
+        </p>
+        <br>
+        <p>
+          <input type="text" name="birthdate" required pattern="[0-9]{2}/[0-9]{2}/[0-9]{4}" />
+        </p>
+        <br>
+        <p>
+          <input type="text" name="nationality" required />
+        </p>
+        <br>
+        <p>
+          <input type="text" name="mail" required />
+        <p>
+      </div>
+    </div>
+  </div>
+  <button type="submit" id="submit">Add new student</button>
+</form>
+
+<script src="/js/bootstrap.js"></script>

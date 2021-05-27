@@ -1,0 +1,47 @@
+<head>
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/update-student.css">
+  <ul class="nav justify-content-center" id="nav">
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="/">Home page</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students">List of students</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students/data">Data visualization</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/students/create">Creation of student</a>
+    </li>
+  </ul>
+</head>
+
+<form method="POST">
+  <div id="title">
+    Informations about the student
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm" id="text">
+        <div>
+          <span class="badge bg-warning text-dark" id = "warning"><strong><u>Warning :</u></strong> You need to keep the same name of student !!</span>
+        </div>
+        <u>Name of the student :</u> 
+        <input type="text" name="name" placeholder="<%=students[id].name%>" id = "name"/> <u>School/University :</u>
+        <input type="text" name="school" placeholder="<%=students[id].school%>" /> <br><br> <u>Birth date :</u>
+        <input type="text" name="birth" placeholder="<%=students[id].birth%>" /> <br><br> <u>Nationality :</u>
+        <input type="text" name="nationality" placeholder="<%=students[id].nationality%>" /> <br><br> <u>Mail :</u>
+        <input type="text" name="mail" placeholder="<%=students[id].mail%>" size=30 />
+      </div>
+      <div class="col-sm" id="photo">
+        <img src="<%=students[id].photo%>" width=150 height=200>
+        <img src="<%=students[id].logoUniv%>" width=100 height=100 id="logo">
+      </div>
+    </div>
+  </div>
+  <button type="submit" class="btn btn-dark" id="submit">Validation</button>
+  <script src="/js/bootstrap.js"></script>
+</form>
+
+</html>

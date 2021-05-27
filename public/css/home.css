@@ -1,0 +1,57 @@
+#home1 {
+    margin: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#nav {
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#epf {
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#title {
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 36;
+    font-weight: bold;
+}
+
+#text {
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width : 80%;
+    font-size: 20;
+}
+
+#book {
+    margin: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+footer {
+    bottom:0;
+    position:absolute;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    padding: 0.05%;
+    color: rgba(63, 44, 44, 0.5);
+}
