@@ -23,6 +23,6 @@ The character of id 5 is **Jerry Smith**. To know that informations, I used Inso
   <li>Express : <code>npm install express</code></li>
 <li>Fs : <code>npm install fs</code></li>
 <li>Path : <code>npm install path</code></li>
-<li>Express-basic-auth : <code>npm install express-basic-auth</code></li>
-<li>Bcrypt : <code>npm install bcrypt</code></li>
+<li>MethodOverride : <code>npm install method-override</code></li>
+<li>Csvjson : <code>npm install csvjson</code></li>
 </ul>
