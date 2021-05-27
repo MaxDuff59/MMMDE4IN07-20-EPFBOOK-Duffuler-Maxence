@@ -26,3 +26,16 @@ The character of id 5 is **Jerry Smith**. To know that informations, I used Inso
 <li>MethodOverride : <code>npm install method-override</code></li>
 <li>Csvjson : <code>npm install csvjson</code></li>
 </ul>
+
+## **<ins>How to install the application</ins>**
+
+<ul>
+<li>Verify that you have <strong>NodeJS</strong> downloaded on your computer
+<li>Download the repository or clone it in a folder : https://github.com/MaxDuff59/MMMDE4IN07-20-EPFBOOK-Duffuler-Maxence.git
+<li>Open a terminal and execute the following command : 
+<li><ul>
+<li> 1. <code>cd path/to/your/file</code>
+<li> 2. <code>npm install</code>
+<li> <code>node app.js</code> or <code>npm run dev</code>
+</ul>
+</ul>
