@@ -36,6 +36,6 @@ The character of id 5 is **Jerry Smith**. To know that informations, I used Inso
 <li><ul>
 <li> 1. <code>cd path/to/your/file</code>
 <li> 2. <code>npm install</code>
-<li> <code>node app.js</code> or <code>npm run dev</code>
+<li> 3. <code>node app.js</code> or <code>npm run dev</code>
 </ul>
 </ul>
